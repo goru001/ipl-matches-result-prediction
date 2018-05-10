@@ -1,0 +1,3 @@
+After training the model with 100 epochs, 
+Mean Squared Error on Training Set = 0.17784548
+Mean Squared Error on Validation Set = 0.19807625
